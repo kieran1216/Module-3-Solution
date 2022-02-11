@@ -9,18 +9,18 @@ body{
 	border-radius: 0;
 }
 
-.navbar-header, .navbar-brand p {
+.navbar-header, .navbar-brand p{
 		color: blueviolet;
 		font-size:  1.5em;
 		font-weight:  bold;
 		margin-top:  10px;
 }
 
-.navbar-header, .navbar-brand a {
+.navbar-header, .navbar-brand a{
 	text-decoration:  none
 }
 
-#nav-list a {
+#nav-list a{
 	color: mediumpurple;
 	text-aling: center;
 }
@@ -42,11 +42,11 @@ body{
 }
 
 .text p{
-	color: black;
+	color: blueviolet;
 	text-decoration: none;
 }
 
 .text-center {
-	color: black;
+	color: green;
 	text-decoration:  none;
 }
